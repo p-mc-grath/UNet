@@ -1,0 +1,9 @@
+easydict
+numpy
+regex
+six
+tensorflow
+tensorboard
+torch
+torchvision
+tqdm
